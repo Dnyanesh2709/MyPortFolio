@@ -1,21 +1,61 @@
+# 🚀 Animated Developer Portfolio
 
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ" target="_blank">
-  <img src="thumbnail.png" alt="Thumbnail"/>
-</a>
-
-
----
-## Introduction: 
-
-#### 🎥 Create the Ultimate Portfolio Website with Just HTML,CSS and JavaSctipt! 💻
-
-#### Want to design a stunning portfolio website that’s responsive, modern, and minimalist? In this step-by-step tutorial, we’ll use only HTML and CSS to craft a visually appealing site that highlights your skills, projects, and creativity. 🌟
-
-#### From building the perfect navbar and styling a sleek header to creating a gallery for your work and adding smooth animations and hover effects, this video covers it all! Whether you’re a beginner or looking to sharpen your design skills, we’ll help you master flexbox, grid, and media queries for a truly responsive layout.
-
+Welcome to my personal animated portfolio website!  
+This project highlights my skills, projects, and experience through smooth animations and a clean, modern UI.
 
 ---
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ">
-  <img src="youtube.png" alt="youtube"/>
-</a>
+
+## 📌 Features
+
+- ⚡ Animated transitions using GSAP
+- 💡 Project showcase with external links
+- 🖥️ Fully responsive design
+- 🎨 Clean and modular code structure
+- 🌙 (Optional) Dark mode support
+
+---
+
+## 🔗 Live Demo
+
+Check out the live version here:  
+👉 [https://dnyanesh2709.github.io/MyPortFolio](https://dnyanesh2709.github.io/MyPortFolio)
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3 / SCSS**
+- **JavaScript (Vanilla JS)**
+- **GSAP** for animations
+- **Boxicons** for icons
+- **Git & GitHub** for version control
+
+---
+
+## 💼 Projects Featured
+
+### 1. Sudhaar
+> A personalized addiction rehabilitation platform that provides custom recovery plans to users based on their unique needs.
+
+🔗 [Live Website](https://sudhaar-personalizedaddictionrehabilitationsu-production.up.railway.app/)
+
+---
+
+### 2. Nebula
+> An AI-powered e-commerce platform featuring VR trial rooms, voice navigation, dynamic pricing, and personalized product recommendations.
+
+🔗 [Live Website](https://7hq6d64w-5173.inc1.devtunnels.ms/)
+
+---
+
+### 3. Lawpal
+> A legal document assistant that helps users generate contracts, agreements, and notices in simple language using AI.  
+> It aims to democratize access to legal documentation for individuals and small businesses.
+
+🔗 [Live Website](https://lawpal-ai.vercel.app/)
+
+---
+
+
+
